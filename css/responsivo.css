@@ -1,0 +1,11 @@
+@media (max-width: 375px) {
+    .menu {
+        background-color:hsl(0, 0%, 100%);
+        padding: 10px;
+        border-radius: 5%;
+        display: flex;
+        justify-content: center;
+    }
+        
+    
+}

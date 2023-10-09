@@ -1,0 +1,51 @@
+body {
+    background-color: hsl(212, 45%, 89%);
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+main .menu {
+    background-color: hsl(0, 0%, 100%);
+    padding: 10px;
+    border-radius: 5%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 40%;
+    max-width: 281.6px;
+    max-height: 458.75px;
+}
+
+main .menu .qrcode {
+    display: flex;
+    border-radius: 5%;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+}
+
+main .menu .titulo {
+    font-size: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: "Outfit";
+    font-weight: 700;
+    text-align: center;
+    margin-top: 5%;
+    padding: 5px;
+}
+
+main .menu .descricao {
+    font-size: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    margin-bottom: 10%;
+    font-family: "Outfit";
+    font-weight: 400;
+    text-align: center;
+    padding: 5px;
+}
